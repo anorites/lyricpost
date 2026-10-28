@@ -1,0 +1,22 @@
+/* LyricPost — Satoshi automática
+   Título: Bold 700 | Artista: Medium 500 | Letra: Black 900
+   Seletores conferidos no index.html do LyricPost original.
+*/
+
+.song-image .header .name,
+.song-image .header .name * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.song-image .header .authors,
+.song-image .header .authors * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 500 !important;
+}
+
+.song-image .lyrics,
+.song-image .lyrics * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 900 !important;
+}
