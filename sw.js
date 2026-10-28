@@ -1,4 +1,4 @@
-const CACHE_NAME = 'v4';
+const CACHE_NAME = 'v7-satoshi';
 
 // Paths are relative to this file's location, not the domain root: the app is
 // served from a GitHub Pages subpath (/lyricpost/), where a leading slash would
