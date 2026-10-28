@@ -1,0 +1,21 @@
+/* LyricPost — Satoshi automática
+   Título: Black 900 | Artista: Bold 700 | Letra: Black 900
+*/
+
+.song-image .header .name,
+.song-image .header .name * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 900 !important;
+}
+
+.song-image .header .authors,
+.song-image .header .authors * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.song-image .lyrics,
+.song-image .lyrics * {
+  font-family: "Satoshi", sans-serif !important;
+  font-weight: 900 !important;
+}
